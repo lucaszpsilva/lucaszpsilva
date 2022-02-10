@@ -3,3 +3,5 @@
 <h3 align="center">Desenvolvedor Front-End,</h3>
 
 <h2>Meus projetos</h2>
+
+<h2> Projetos pessoais </h2>

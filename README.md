@@ -2,12 +2,13 @@
 <h3 align="center">Estudante de Analise e desenvolvimento de sistemas (ENIAC) </h3>
 <h3 align="center">Desenvolvedor Front-End,</h3>
 
-<h2>Meus projetos</h2> 
+<h2>Meus projetos (estudo)</h2> 
 <a href="https://github.com/lucaszpsilva/Animais-Fantasticos">• Animais-Fantásticos</a>
 
 <h2> Projetos pessoais </h2>
 
 <h2> Entre em contato </h2>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucaszsilva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h2> Linguagens e Ferramentas</h2>
 

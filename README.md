@@ -3,14 +3,18 @@
 <h3 align="center">Desenvolvedor Front-End,</h3>
 
 <h2>Meus projetos (estudo)</h2> 
-<a href="https://github.com/lucaszpsilva/Animais-Fantasticos">• Animais-Fantásticos</a>
-
+  <a href="https://github.com/lucaszpsilva/Animais-Fantasticos">• Animais-Fantásticos</a>
 <h2> Projetos pessoais </h2>
 
 <h2> Entre em contato </h2>
-<a href="https://www.linkedin.com/in/lucaszsilva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucaszsilva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h2> Linguagens e Ferramentas</h2>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
 
 <div align="left">
   <a href="https://github.com/lucaszpsilva">

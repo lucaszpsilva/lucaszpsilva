@@ -4,6 +4,8 @@
 
 <h2>Meus projetos (estudo)</h2> 
   <a href="https://github.com/lucaszpsilva/Animais-Fantasticos">• Animais-Fantásticos</a>
+  <a href="https://github.com/lucaszpsilva/CSS-PRATICA">• Pratica HTML+CSS</a>
+  
 <h2> Projetos pessoais </h2>
 
 <h2> Entre em contato </h2>

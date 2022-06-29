@@ -3,9 +3,7 @@
 <h3 align="center">Desenvolvedor Front-End,</h3>
 
 <h2>Meus projetos (estudo)</h2> 
-  <a href="https://github.com/lucaszpsilva/Animais-Fantasticos">• Animais-Fantásticos</a><br>
-  <a href="https://github.com/lucaszpsilva/CSS-PRATICA">• Pratica HTML+CSS</a><br>
-  
+
 <h2> Projetos pessoais </h2>
 
 <h2> Entre em contato </h2>

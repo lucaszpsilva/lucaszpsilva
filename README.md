@@ -1,11 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Pereira</h1>
 <h3 align="center">Formado em Analise e Desenvolvimento de Sistemas (ENIAC) - 2022</h3>
 <h3 align="center">Desenvolvedor Front-End,</h3>
-
-<h2> Meus projetos </h2>
-<a href ="https://github.com/lucaszpsilva/SKINTALON-base-project.git"><b>SkinTalon</a>
 <h2> Entre em contato </h2>
   <a href="https://www.linkedin.com/in/lucaszsilva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<h2> Meu Portfólio </h2>
+
+
+<h2> Meus Projetos </h2>
+<a href ="https://github.com/lucaszpsilva/SKINTALON-base-project.git"><b>SkinTalon</a>
+
 
 <h2> Linguagens e Ferramentas</h2>
   <div style="display: inline_block"><br>

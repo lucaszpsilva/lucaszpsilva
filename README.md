@@ -7,6 +7,7 @@
 
 <h2> Meus Projetos </h2>
 <a href ="https://github.com/lucaszpsilva/SKINTALON-base-project.git"><b>SkinTalon</a>
+<a href ="https://github.com/lucaszpsilva/KINGS-BARBER"><b>King's Barber Shop</a>
 
 <h2> Entre em contato </h2>
   <a href="https://www.linkedin.com/in/lucaszsilva1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

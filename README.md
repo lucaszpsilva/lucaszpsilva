@@ -6,7 +6,7 @@
 <a href ="https://github.com/lucaszpsilva/PORTFOLIO"><b>PORTFÓLIO</a>
 
 <h2> Meus Projetos </h2>
-<a href ="https://github.com/lucaszpsilva/SKINTALON-base-project.git"><b>SkinTalon</a>
+<a href ="https://github.com/lucaszpsilva/SKINTALON-base-project.git"><b>SkinTalon</a></br>
 <a href ="https://github.com/lucaszpsilva/KINGS-BARBER"><b>King's Barber Shop</a>
 
 <h2> Entre em contato </h2>

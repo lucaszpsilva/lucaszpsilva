@@ -17,6 +17,11 @@ This profile is a clean space where I upload real-world software assets, refacto
 *   Tailwind CSS & minimalist UI layout
 
 ---
+  ### Featured Assets
+  **[Automated Promotions Bot](https://whatsapp.com/channel/0029VbCdsTz9sBI2UYFQUQ1M)** 
+  **[Automated Workflow Bot](https://github.com/lucaszpsilva/BOT-FINANCAS)** 
+
+---
 
 ### A Bit About Me
 

@@ -18,7 +18,8 @@ This profile is a clean space where I upload real-world software assets, refacto
 
 ---
   ### Featured Assets
-  
+
+  * [FRONT PDV - POS Market System](https://github.com/lucaszpsilva/front-pdv) - POS Market System
   * [Automated Promotions Bot](https://whatsapp.com/channel/0029VbCdsTz9sBI2UYFQUQ1M) - Shopee promo bot
   * [Automated Workflow Bot](https://github.com/lucaszpsilva/BOT-FINANCAS) - Financial Management Assistant
 

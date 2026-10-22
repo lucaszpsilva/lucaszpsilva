@@ -12,7 +12,7 @@ This profile is a clean space where I upload real-world software assets, refacto
 
 ### Tools & Tech
 
-*   React, TypeScript, JavaScript (ES6+), Angular, Vite
+*   React, TypeScript, JavaScript, Node, Vite, Tauri
 *   Node.js & automated backend workflows
 *   Tailwind CSS & minimalist UI layout
 
@@ -22,6 +22,10 @@ This profile is a clean space where I upload real-world software assets, refacto
   * [FRONT PDV - POS Market System](https://github.com/lucaszpsilva/front-pdv) - POS Market System
   * [Automated Promotions Bot](https://whatsapp.com/channel/0029VbCdsTz9sBI2UYFQUQ1M) - Shopee promo bot
   * [Automated Workflow Bot](https://github.com/lucaszpsilva/BOT-FINANCAS) - Financial Management Assistant
+  * [English with Bianca](https://english-with-bianca.vercel.app/) - Landing Page for English Classes
+
+
+    
 
 ---
 

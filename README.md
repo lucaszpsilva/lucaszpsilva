@@ -19,7 +19,7 @@ This profile is a clean space where I upload real-world software assets, refacto
 ---
   ### Featured Assets
 
-  * [FRONT PDV - POS Market System](https://frontpdv.vercel.app/) - POS Market System
+  * [FRONT PDV - POS Market System](https://frontpdv.vercel.app/){:target="_blank" rel="noopener noreferrer"} - POS Market System
   * [English with Bianca](https://english-with-bianca.vercel.app/) - Site for English Classes (Student Area + Blog)
   * [Automated Promotions Bot](https://whatsapp.com/channel/0029VbCdsTz9sBI2UYFQUQ1M) - Shopee promo bot
   * [Automated Workflow Bot](https://github.com/lucaszpsilva/BOT-FINANCAS) - Financial Management Assistant

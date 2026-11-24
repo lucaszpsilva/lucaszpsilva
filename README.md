@@ -19,10 +19,10 @@ This profile is a clean space where I upload real-world software assets, refacto
 ---
   ### Featured Assets
 
-  * [FRONT PDV - POS Market System](https://frontpdv.vercel.app/){:target="_blank" rel="noopener noreferrer"} - POS Market System
-  * [English with Bianca](https://english-with-bianca.vercel.app/) - Site for English Classes (Student Area + Blog)
-  * [Automated Promotions Bot](https://whatsapp.com/channel/0029VbCdsTz9sBI2UYFQUQ1M) - Shopee promo bot
-  * [Automated Workflow Bot](https://github.com/lucaszpsilva/BOT-FINANCAS) - Financial Management Assistant
+  * <a href="https://frontpdv.vercel.app/" target="_blank" rel="noopener noreferrer">FRONT PDV - POS Market System</a> - POS Market System
+  * <a href="https://english-with-bianca.vercel.app/" target="_blank" rel="noopener noreferrer">English with Bianca</a> - Site for English Classes (Student Area + Blog)
+  * <a href="https://whatsapp.com/channel/0029VbCdsTz9sBI2UYFQUQ1M" target="_blank" rel="noopener noreferrer">Automated Promotions Bot</a> - Shopee promo bot
+  * <a href="https://github.com/lucaszpsilva/BOT-FINANCAS" target="_blank" rel="noopener noreferrer">Automated Workflow Bot</a> - Financial Management Assistant
 
 
 ---
